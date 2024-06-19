@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    min-width: 650px;
+    padding: 0px;
+    background-color: #D3FFB0;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.5px;
+    /* text-align: center; */
+}
+h1{
+    margin: 7px 7px 7px 0px;
+}
+p{
+    font-size: 20px;
+}
+.img{
+    margin-top: 20px;
+}
+.navbar{
+    margin: 0px;
+    padding: 10px;
+    padding-left: 15px;
+    /* font-size: 35px; */
+    background-color: #061D07;
+    color: #FFFBFB;
+}
+.cont{
+    margin: 5px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+}
+.visited{
+    font-size: 40px;
+}
+/* p{
+    font-weight: semi-bold;
+    font-size: 18px;
+    margin-top: 5px;
+} */
+input{
+    margin: 0px 0px 15px 0px;
+    width: 90%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341
+}
+.heading{
+    margin: 5px;
+}
+button{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    padding: 10px 20px;
+    background: #061D07;
+    border: none;
+    margin: 5px;
+    border-radius: 2px;
+    font-size: 18px;
+}
+.savetab{
+    margin-left: 5px;
+}
+.place{
+    margin-left: 15px;
+}
+.hero-line{
+    margin-bottom: 25px;
+}
+h3{
+    margin-left: 0px; 
+    font-size: 19px;
+}
+h2{
+    font-size: 19px;
+}
+.tdel{
+    margin-right: 100px;
+}
+.values{
+    margin-left: 15px;
+    font-size: 17px;
+    padding-bottom: 15px;
+}
